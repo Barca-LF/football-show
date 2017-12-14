@@ -1,0 +1,93 @@
+.gb_hintbar{width:100%;position:relative;zoom:1;background:#FFF2D1 url(img/gb_hintbar/bg_hintbar.png?max_age=19830212&d=20130911112722) repeat-x;border-bottom:1px solid #E9C58C}
+.gb_hintbar .inner{width:960px;height:60px;margin:0 auto;position:relative;zoom:1;color:#555}
+.gb_hintbar .inner a{color:#1E79C6;text-decoration:underline}
+.gb_hintbar .hintbar_ico_em_diamond{background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:0 0;width:95px;height:90px}
+.gb_hintbar .hintbar_ico_cal{background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:0 -91px;width:43px;height:39px;font-size:26px;line-height:40px;text-align:center;font-family:Arial;color:#FF720B;font-weight:normal;letter-spacing:-1px;overflow:hidden}
+.gb_hintbar .hintbar_bt_chargevip{background-image:url(sprite/gb_hintbar_import.jpg?max_age=19830212&d=20130911112722);background-position:0 0;width:97px;height:27px;vertical-align:top;margin:0 8px;line-height:20px;margin-top:-5px}
+.gb_hintbar .hintbar_bt_charge{background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:-44px -91px;width:129px;height:37px}
+.gb_hintbar .hintbar_bt_charge:hover{background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:-96px 0}
+.gb_hintbar .ui_hint_success,.gb_hintbar .ui_hint_warn{position:absolute;top:20px;left:0;z-index:20}
+.gb_hintbar .hintbar_txt{margin-left:35px;font-size:14px;font-family:"Microsoft Yahei","\9ED1\4F53";padding-top:22px;color:#984B12;line-height:18px;height:18px}
+.gb_hintbar .text_close{position:absolute;right:10px;top:10px;width:14px;height:14px;font-size:14px;color:#E4AF4D;line-height:14px;font-family:Tahoma;font-weight:bold;overflow:hidden;text-align:center}
+.gb_hintbar .text_close:hover{color:#FFAE00}
+.gb_hintbar .icon_hint,.gb_hintbar .icon_hint_success,.gb_hintbar .icon_hint_advise{display:inline-block;zoom:1}
+.gb_hintbar .icon_hint_warn{background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:-178px -143px;height:24px;width:24px}
+.gb_hintbar .ui_hint_warn{background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:-178px -143px;height:24px;width:24px}
+.gb_hintbar .ui_hint_success{background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:-203px -143px;height:24px;width:24px}
+.gb_hintbar_vip{background:url(img/gb_hintbar/bg_hintbar_vip.jpg?max_age=19830212&d=20130911112722) center top no-repeat}
+.gb_hintbar_vip .inner{height:98px}
+.gb_hintbar_vip .hintbar_ico_em_diamond{display:none;position:absolute;left:0;top:6px}
+.gb_hintbar_vip .hintbar_bt_charge{position:absolute;right:0;top:30px}
+.gb_hintbar_vip .hintbar_txt{width:680px;height:80px;position:absolute;margin-left:120px;font-size:16px;line-height:30px;padding-top:20px;_line-height:40px}
+.gb_hintbar_vip .hintbar_cal_wrap{vertical-align:text-bottom;margin:0 10px;position:relative;height:20px;line-height:30px;_line-height:40px;display:inline-block;zoom:1;width:44px}
+.gb_hintbar_vip .hintbar_cal_wrap em{font-size:20px;color:#FF720B;display:inline-block;zoom:1;line-height:40px;_line-height:45px;height:40px;position:absolute;top:-12px;left:0}
+.gb_hintbar_vip .hintbar_cal_wrap .hintbar_ico_cal{vertical-align:top;position:absolute;top:-11px;left:0}
+.gb_hintbar_vipoff{background:#FFF2D1}
+.gb_hintbar_vipoff .hintbar_ico_em_diamond{display:block}
+.gb_tipbar{background:#E9F3FA;position:relative;border:1px solid #DCECF7}
+.gb_tipbar .inner{width:960px;height:48px;margin:0 auto;position:relative;zoom:1}
+.gb_tipbar .ui_txt{background:url(img/gb_hintbar/bg_tipbar_txt.png?max_age=19830212&d=20130911112722)}
+.gb_tipbar .tipbar_ico_qmusic{width:28px;height:30px;background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:-197px -74px}
+.gb_tipbar .tipbar_txt_download{background-position:0 0;width:330px;height:17px;background-repeat:no-repeat}
+.gb_tipbar .tipbar_txt_knowsoon{width:340px;height:22px;background-position:0 -20px;background-repeat:no-repeat}
+.gb_tipbar .tipbar_txt_sethome{width:380px;height:22px;background-position:0 -43px;background-repeat:no-repeat}
+.gb_tipbar .tipbar_ico_close{background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:-228px 0;height:15px;width:15px;position:absolute;top:10px;right:10px}
+.gb_tipbar .tipbar_ico_close:hover{background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:-228px -17px}
+.gb_tipbar .tipbar_bt{background:url(img/gb_hintbar/bg_tipbar_bt.png?max_age=19830212&d=20130911112722) left 0;padding-left:15px;height:28px;line-height:28px;cursor:pointer!important;width:auto}
+.gb_tipbar .tipbar_bt .tipbar_bt_i{background:url(img/gb_hintbar/bg_tipbar_bt.png?max_age=19830212&d=20130911112722) right 0;padding-right:15px;height:28px;line-height:27px;line-height:28px\9;color:#fff;font-size:14px;vertical-align:top;width:auto}
+.gb_tipbar_getmusicplug .tipbar_ico_qmusic{position:absolute;top:10px;left:168px}
+.gb_tipbar_getmusicplug .tipbar_txt_download{position:absolute;top:17px;left:211px}
+.gb_tipbar_getmusicplug .tipbar_bt{position:absolute;top:10px;left:642px}
+.gb_tipbar_knowsoon .tipbar_fri_list{position:absolute;height:30px;overflow:hidden;zoom:1;top:8px;left:168px}
+.gb_tipbar_knowsoon .tipbar_fri_list a{width:30px;height:30px;display:block;float:left;margin-right:5px}
+.gb_tipbar_knowsoon .tipbar_fri_list .tipbar_txt_knowsoon{float:left;margin-left:10px;margin-top:5px}
+.gb_tipbar_knowsoon .tipbar_bt{position:absolute;right:125px;top:10px}
+.gb_tipbar_sethome .tipbar_txt_sethome{position:absolute;top:13px;right:345px}
+.gb_tipbar_sethome .tipbar_bt{position:absolute;right:210px;top:10px}
+.gb_hintbar_foul{font-size:12px;line-height:18px;padding:15px 0}
+.gb_hintbar_foul .inner{height:150px;width:800px}
+.gb_hintbar_foul .foul_info{color:#984B12;margin-bottom:12px}
+.gb_hintbar_foul .foul_info .foul_icon{float:left;margin-right:10px;margin-top:3px;_display:inline;_margni-right:7px}
+.gb_hintbar_foul .foul_info p{overflow:hidden;zoom:1}
+.gb_hintbar_foul .foul_step{padding-left:35px;margin-bottom:15px}
+.gb_hintbar_foul .foul_step .step_intro{margin-bottom:12px}
+.gb_hintbar_foul .foul_step .step_item{word-wrap:normal;white-space:nowrap;display:inline-block;_disaplay:inline;zoom:1;float:left;min-width:160px}
+.gb_hintbar_foul .foul_step a{text-decoration:none}
+.gb_hintbar_foul .foul_step .step_item .icon_foul_step{float:left;margin-right:10px;margin-top:3px;*margin-top:1px;_margin-right:7px}
+.gb_hintbar_foul .foul_step .icon_foul_step1{background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:-178px -109px;width:14px;height:34px}
+.gb_hintbar_foul .foul_step .icon_foul_step2{background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:-193px -109px;width:22px;height:34px}
+.gb_hintbar_foul .foul_step .icon_foul_step3{background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:-174px -74px;width:22px;height:34px}
+.gb_hintbar_foul .foul_step .icon_foul_step_arr{background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:-96px -74px;width:26px;height:14px;float:left;zoom:1;_display:inline;margin:10px 20px 0;_margin:10px 17px 0}
+.gb_hintbar_foul .foul_appeal{text-align:right}
+.izone_toptips{background:#eaf9ff;text-align:center;border-bottom:1px solid #b5cdde}
+.izone_toptips .toptips_wrap{height:80px;width:968px;margin:0 auto;zoom:1;position:relative;background:#eaf9ff;text-align:left;padding-left:12px}
+.izone_toptips .toptips_info{font:normal 15px "Microsoft Yahei",Simhei;color:#00b1f2;height:35px;line-height:35px}
+.izone_toptips .toptips_frilist{font-size:0;-webkit-text-size-adjust:none;height:35px;line-height:35px}
+.izone_toptips .toptips_frilist a{width:35px;border:0 none;margin-right:5px}
+.izone_toptips .toptips_frilist a img{width:35px;height:35px}
+.izone_toptips .toptips_frilist span{display:inline-block;height:35px;line-height:35px;color:#576d7d;font-size:12px;margin-left:10px;vertical-align:top}
+.izone_toptips .toptips_ktlink{display:block;width:177px;height:39px;position:absolute;right:140px;top:19px;background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:0 -131px}
+.izone_toptips .toptips_ktlink span{display:none}
+.hide_visit_tips{z-index:401}
+.hide_visit_tips .inner{height:40px}
+.hide_visit_tips .inner .hintbar_txt{padding-top:10px;_padding-top:12px}
+.hide_visit_tips .inner img{width:35px;height:22px;float:left;margin-top:10px;margin-right:10px}
+.hide_visit_tips .inner .hintbar_txt .hh{font-size:16px;padding-right:5px}
+.hide_visit_tips .inner .hintbar_txt a{text-decoration:none}
+.browser-update{background:none;background-color:#fffbc3}
+.browser-update .inner{width:800px}
+.browser-update .hintbar_txt div{margin-top:-7px;float:left;line-height:35px}
+.browser-update .hintbar_txt .c_tx img{cursor:pointer;margin-top:-10px;margin-left:18px}
+.gb_hintbar_qzone_update_vip{background:url(img/gb_hintbar/qzone_update_vip_bg.jpg?max_age=19830212&d=20130911112722) no-repeat center bottom #17325f}
+.gb_hintbar_qzone_update_vip .inner{height:140px}
+.gb_hintbar_qzone_update_vip .hintbar_txt{display:none}
+.gb_hintbar_qzone_update_vip .inner .btn_learn_more{width:107px;height:35px;background-image:url(sprite/gb_hintbar_import.png?max_age=19830212&d=20130911112722);background-position:-96px -38px;color:#333;display:inline-block;zoom:1;text-align:center;font-size:14px;font-family:"Microsoft Yahei";text-decoration:none;line-height:33px;padding-left:10px;position:absolute;right:0;top:50%;margin-top:-17px}
+.gb_hintbar_qzone_update_vip .text_close{color:#cacdd4;font-size:22px;width:18px;height:18px;font-weight:normal;overflow:hidden}
+.gb_hintbar_qzone_update_vip .text_close:hover{text-decoration:none;color:#cacdd4}
+.gb_hintbar_qzone_update{background:url(img/gb_hintbar/qzone_update_bg.jpg?max_age=19830212&d=20130911112722) no-repeat center bottom #17325f}
+.gb_hintbar_qzone_update .inner{height:140px}
+.gb_hintbar_qzone_update .hintbar_txt{display:none}
+.gb_hintbar_qzone_update .inner .btn_learn_more{width:114px;height:35px;background-color:#5caae6;border-radius:2px;color:#fff;display:inline-block;zoom:1;text-align:center;font-size:14px;font-family:"Microsoft Yahei";text-decoration:none;line-height:33px;position:absolute;right:0;top:50%;margin-top:-17px}
+.gb_hintbar_qzone_update .text_close{color:#cacdd4;font-size:22px;width:18px;height:18px;font-weight:normal;overflow:hidden}
+.gb_hintbar_qzone_update .text_close:hover{text-decoration:none;color:#cacdd4}
+#CssGaga{content:"130911112722,rou,288"}/*  |xGv00|f3f4d7232156f874c3b0b14504034743 */
